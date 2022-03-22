@@ -1,0 +1,2 @@
+,name,year,explicit,duration_ms,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,time_signature
+0,misery is a butterfly,2004,0,307667,46,0.548,0.77,9,-6.676,0,0.026,0.193,0.286,0.291,0.41,144.242,audio_features,0tm9m5pv01Toj3nt3LESdZ,spotify:track:0tm9m5pv01Toj3nt3LESdZ,https://api.spotify.com/v1/tracks/0tm9m5pv01Toj3nt3LESdZ,https://api.spotify.com/v1/audio-analysis/0tm9m5pv01Toj3nt3LESdZ,4
